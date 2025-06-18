@@ -1,6 +1,6 @@
 # desafio-dio-iphone
 
-Olá para dar um incrementa no projeto criei uma loja que tem alguns produtos, em especial temos o pacote de eletronicos que contem
+Olá para dar um incrementada no projeto criei uma loja que tem alguns produtos, em especial temos o pacote de eletronicos que contem
 SmartPhones , temos marcas separadas por pacote , como solicita o desafio temos a marca aplle e seu iphone
 
 # Pacotes Aplle
