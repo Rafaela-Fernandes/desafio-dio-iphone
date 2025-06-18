@@ -1,8 +1,19 @@
 package src.loja.eletronico.smartphone.apple;
 
 public class Iphone implements Navegador , ReprodutorMusical ,Telefone {
+    public String getModelo() {
+        return modelo;
+    }
 
- private final String modelo = "Iphone 13";
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
+
+    public Iphone(String modelo) {
+        this.modelo = modelo;
+    }
+
+    private String modelo = "Iphone 13";
  private final String fabricante = "Apple";
  private  final  String sistemaOperacional = "IOS";
 

@@ -2,13 +2,13 @@ package src.loja;
 
 import src.loja.eletronico.smartphone.SmartPhoneBase;
 import src.loja.eletronico.smartphone.apple.Iphone;
-import src.loja.eletronico.smartphone.apple.Navegador;
+
 
 public class Loja {
     public static void main(String[] args) {
 
         // criando instancia
-        Iphone iphone = new Iphone();
+        Iphone iphone = new Iphone("Iphone 13");
 
 
         //iphone usando reprodutor musical
